@@ -3,7 +3,7 @@
 
 ### Bem vindo ao meu perfil GitHub!👋
 
-- 📚 Atualmente estudo javascript na <code>[#Alura](https://www.alura.com.br/)</code>, estudei na Etec Sebrae, desenvolvimento para smartphone!
+- 📚 Atualmente estudo o funcionamento de um carrinho de compras em Java para o iFood na DIO, fiz a imersão Dev com javascript na Alura, estudei na Etec Sebrae desenvolvimento para smartphone.
 - 🤔 Estou procurando ajuda com meus colegas de programação, vídeos tutoriais, apostilas e livros.
 - 📫 Como entrar em contato comigo: mariaaparecidafalcao051@gmail.com
 - 😄 Pronomes: Ela/Dela
