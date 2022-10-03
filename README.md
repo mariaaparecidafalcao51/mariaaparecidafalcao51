@@ -3,6 +3,7 @@
 
 ### Bem vindo ao meu perfil GitHub!👋
 
+
 - 📚 Atualmente participo da Dev Week na DIO, estudando o funcionamento de um carrinho de compras em Java para o funcionamento do iFood, fiz a imersão Dev com javascript na Alura, estudei na Etec Sebrae desenvolvimento para smartphone.
 - 🤔 Estou procurando ajuda com meus colegas de programação, vídeos tutoriais, apostilas e livros.
 - 📫 Como entrar em contato comigo: mariaaparecidafalcao051@gmail.com
